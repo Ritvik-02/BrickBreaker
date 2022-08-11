@@ -14,3 +14,5 @@ To run the game:
 - if on a mac, run "python3 brick_breaker.py" (or the appropriate alternative for windows)
 - enter the level number to begin playing
 - the game window will automatically open as soon as you enter your level
+
+Youtube Link: https://www.youtube.com/watch?v=GebXJ2MU4fM&t=3s
